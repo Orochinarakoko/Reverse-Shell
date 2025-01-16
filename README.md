@@ -25,4 +25,3 @@ If receiving "ADDRESS ALREADY BEING USED - WAIT A MINUTE AND TRY AGAIN" , then:
  - If that does not work then try killing the process
  - Finally , if that doesn't work then turn your computer on and off again
 
-If receving
